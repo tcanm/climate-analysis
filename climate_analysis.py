@@ -1,3 +1,5 @@
+# To do: add call to understand seismic waves
+
 # TODO(smangham): Add call to process rainfall
 
 """ Climate Analysis Tools """
