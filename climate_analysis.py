@@ -1,3 +1,5 @@
+# TODO(smangham): Add call to process rainfall
+
 """ Climate Analysis Tools """
 
 import sys
